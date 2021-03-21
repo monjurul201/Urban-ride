@@ -1,0 +1,23 @@
+.photo img{
+    width: 100%;
+    margin: 0 auto;
+}
+.travel{
+    background-color: white;
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 15px;
+    height: 300px;
+    position: relative;
+    border-radius: 15px;
+}
+
+
+  .centered {
+    position: absolute;
+    bottom: 8px;
+    right: 50%;
+    color: black;
+  }
+  
+  

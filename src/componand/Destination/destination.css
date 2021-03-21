@@ -1,0 +1,33 @@
+.destination{
+    margin: 0 auto;
+    width: 80%;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap:30px;
+   
+}
+.photo{
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+
+.inputFeild{
+    border-radius: 15px;
+    background-color:rgb(224, 210, 210);
+    padding: 35px;
+    margin-left: 20px;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+        .destination{
+            margin-top: 50px;
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            grid-gap:30px;
+           
+        }     
+  
+  }

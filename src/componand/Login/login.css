@@ -1,0 +1,12 @@
+.loginPage{
+    text-align: center;
+    margin-top: 50px;
+}
+.loginPage button{
+    color: black;
+    background-color: aliceblue;
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    border-radius: 5px;
+}
